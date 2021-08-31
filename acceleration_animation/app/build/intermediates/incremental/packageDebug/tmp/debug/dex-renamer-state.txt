@@ -1,0 +1,4 @@
+#Tue Aug 17 16:11:09 CEST 2021
+base.0=E\:\\AndroidProjects\\acceleration_animation\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
